@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-03T20:14:04.930Z" agent="5.0 (Windows)" etag="MIpov5HddBMl1WPgGWHD" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-03T20:16:23.955Z" agent="5.0 (Windows)" etag="jAB2s9oITLcKcNiU-fPR" version="20.2.8" type="github">
   <diagram id="DqiYeBTS1EIa6dmCcwR_" name="Page-1">
     <mxGraphModel dx="1038" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -218,18 +218,6 @@
         <mxCell id="oLdNrbukNfk5d_UEv6B1-30" value="durée" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oLdNrbukNfk5d_UEv6B1-28">
           <mxGeometry y="52" width="110" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="oLdNrbukNfk5d_UEv6B1-34" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="330" y="360" as="sourcePoint" />
-            <mxPoint x="490" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oLdNrbukNfk5d_UEv6B1-35" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="330" y="360" as="sourcePoint" />
-            <mxPoint x="490" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oLdNrbukNfk5d_UEv6B1-37" value="2..*" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="699" y="236.99834547784508" as="geometry">
             <mxPoint x="8" y="4" as="offset" />
@@ -238,6 +226,12 @@
         <mxCell id="oLdNrbukNfk5d_UEv6B1-38" value="1..*" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="703" y="239.99834547784508" as="geometry">
             <mxPoint x="5" y="-46" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oLdNrbukNfk5d_UEv6B1-39" value="" style="endArrow=none;endFill=0;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="fsXprgT_zU-8kSGe1b56-40">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330" y="360" as="sourcePoint" />
+            <mxPoint x="710" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
